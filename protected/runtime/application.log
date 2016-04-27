@@ -1,0 +1,108 @@
+2016/03/11 21:02:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "signin.css".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('signin.css')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/signin.css
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:04:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/css/ie10-viewport-bug-workaround.css".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('assets/css/ie10...')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/assets/css/ie10-viewport-bug-workaround.css
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:04:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "signin.css".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('signin.css')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/signin.css
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:04:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/ie-emulation-modes-warning.js".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('assets/js/ie-em...')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/assets/js/ie-emulation-modes-warning.js
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:09:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/ie-emulation-modes-warning.js".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('assets/js/ie-em...')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/assets/js/ie-emulation-modes-warning.js
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:09:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/css/ie10-viewport-bug-workaround.css".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('assets/css/ie10...')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/assets/css/ie10-viewport-bug-workaround.css
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:09:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "signin.css".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('signin.css')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/signin.css
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:09:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/css/ie10-viewport-bug-workaround.css".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('assets/css/ie10...')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/assets/css/ie10-viewport-bug-workaround.css
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:09:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "signin.css".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('signin.css')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/signin.css
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:09:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/ie-emulation-modes-warning.js".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('assets/js/ie-em...')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/assets/js/ie-emulation-modes-warning.js
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/ie-emulation-modes-warning.js".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('assets/js/ie-em...')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/assets/js/ie-emulation-modes-warning.js
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
+2016/03/11 21:10:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/css/ie10-viewport-bug-workaround.css".' in C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php:280
+Stack trace:
+#0 C:\xampp\htdocs\yii_core\framework\web\CWebApplication.php(135): CWebApplication->runController('assets/css/ie10...')
+#1 C:\xampp\htdocs\yii_core\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\sistema_avaliacao\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/sistema_avaliacao/assets/css/ie10-viewport-bug-workaround.css
+HTTP_REFERER=http://localhost/sistema_avaliacao/index.html
+---
